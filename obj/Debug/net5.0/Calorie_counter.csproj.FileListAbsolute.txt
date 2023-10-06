@@ -1,0 +1,16 @@
+C:\Users\ernes\source\repos\Calorie_counter\bin\Debug\net5.0\Calorie_counter.exe
+C:\Users\ernes\source\repos\Calorie_counter\bin\Debug\net5.0\Calorie_counter.deps.json
+C:\Users\ernes\source\repos\Calorie_counter\bin\Debug\net5.0\Calorie_counter.runtimeconfig.json
+C:\Users\ernes\source\repos\Calorie_counter\bin\Debug\net5.0\Calorie_counter.runtimeconfig.dev.json
+C:\Users\ernes\source\repos\Calorie_counter\bin\Debug\net5.0\Calorie_counter.dll
+C:\Users\ernes\source\repos\Calorie_counter\bin\Debug\net5.0\Calorie_counter.pdb
+C:\Users\ernes\source\repos\Calorie_counter\obj\Debug\net5.0\Calorie_counter.csproj.AssemblyReference.cache
+C:\Users\ernes\source\repos\Calorie_counter\obj\Debug\net5.0\Calorie_counter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ernes\source\repos\Calorie_counter\obj\Debug\net5.0\Calorie_counter.AssemblyInfoInputs.cache
+C:\Users\ernes\source\repos\Calorie_counter\obj\Debug\net5.0\Calorie_counter.AssemblyInfo.cs
+C:\Users\ernes\source\repos\Calorie_counter\obj\Debug\net5.0\Calorie_counter.csproj.CoreCompileInputs.cache
+C:\Users\ernes\source\repos\Calorie_counter\obj\Debug\net5.0\Calorie_counter.dll
+C:\Users\ernes\source\repos\Calorie_counter\obj\Debug\net5.0\ref\Calorie_counter.dll
+C:\Users\ernes\source\repos\Calorie_counter\obj\Debug\net5.0\Calorie_counter.pdb
+C:\Users\ernes\source\repos\Calorie_counter\obj\Debug\net5.0\Calorie_counter.genruntimeconfig.cache
+C:\Users\ernes\source\repos\Calorie_counter\obj\Debug\net5.0\refint\Calorie_counter.dll
